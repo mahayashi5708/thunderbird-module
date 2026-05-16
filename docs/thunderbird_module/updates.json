@@ -3,7 +3,7 @@
 		"maillog_mark2@infotrace.mk2": {
 			"updates":[
 				{
-					"version": "3.2.7.14",
+					"version": "3.2.7.15",
 					"update_link": "https://mahayashi5708.github.io/thunderbird-module/thunderbird_module/mark_ii_recorder_thunderbird_extension-latest-tb.xpi"
 				}
 			]
