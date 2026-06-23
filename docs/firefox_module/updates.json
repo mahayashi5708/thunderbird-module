@@ -3,7 +3,7 @@
 		"markii_recorder_browser_extension@infotrace.mk2": {
 			"updates":[
 				{
-					"version": "1.1.0.4",
+					"version": "1.1.0.6",
 					"update_link": "https://mahayashi5708.github.io/thunderbird-module/firefox_module/markii_recorder_browser_extension.xpi"
 				}
 			]
